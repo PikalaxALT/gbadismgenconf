@@ -3,4 +3,6 @@ cmake-*-debug
 *.exe
 CMakeLists.txt
 *.conf
+*.o
+*.d
 gbadismgenconf
