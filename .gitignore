@@ -1,0 +1,6 @@
+.idea/
+cmake-*-debug
+*.exe
+CMakeLists.txt
+*.conf
+gbadismgenconf
